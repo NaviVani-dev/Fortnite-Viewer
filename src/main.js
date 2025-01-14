@@ -1,5 +1,3 @@
-import "./style.css";
-
 async function getShop() {
   const url = "https://fortnite-api.com/v2/shop";
   const root = document.getElementById("root");
