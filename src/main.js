@@ -15,7 +15,7 @@ async function getShop() {
     const loadingImg = loadingScreen.querySelector("img");
     const loadingText = loadingScreen.querySelector("p");
     loadingImg.src = "./src/assets/images/error.png";
-    loadingText.textContent = "Error al cargar la tienda!";
+    loadingText.textContent = "An error ocurred while loading the shop!";
   } finally {
     let shopEntries = json.data.entries;
     shopEntries.forEach((entry) => {
