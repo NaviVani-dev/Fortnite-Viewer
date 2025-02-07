@@ -1,6 +1,6 @@
 <h1 align="center">Fortnite Viewer</h1>
 
-![Fortnite Shop]{https://raw.githubusercontent.com/NaviVani-dev/Fortnite-Viewer/refs/heads/main/assets/preview.webp}
+![Fortnite Shop](https://raw.githubusercontent.com/NaviVani-dev/Fortnite-Viewer/refs/heads/main/assets/preview.webp)
 
 A Fortnite Item Shop web made using pure HTML, CSS and JavaScript _(also Vite for a live preview)_
 
